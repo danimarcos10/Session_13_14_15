@@ -1,3 +1,5 @@
+.. |project| replace:: Session_13_14_15
+
 |project| documentation
 ===================================
 
@@ -6,8 +8,7 @@ Welcome to the landing page!
 A section
 ----------
 
-.. doxygennamespace:: homework
-
+.. doxygennamespace:: Session_13_14_15
 
 Docs
 ====
