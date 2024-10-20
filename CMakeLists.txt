@@ -1,7 +1,7 @@
 # Every CMake project needs to start with these two lines
 cmake_minimum_required(VERSION 3.28) # This is the minimum version of CMake required
 project(Session_13_14_15 VERSION 1.0) # This is the name of the project and its version
-set(PROJECT_AUTHOR "David") # This is the author of the project
+set(PROJECT_AUTHOR "Daniel") # This is the author of the project
 
 set(CMAKE_CXX_STANDARD 20) # This sets the C++ standard to C++20
 set(CMAKE_CXX_STANDARD_REQUIRED True) # This tells CMake that the stdandard must be available
